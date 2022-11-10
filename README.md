@@ -79,11 +79,10 @@ env-environ.c  exec    fork    mypid   ppid   printenv  promptc  shell     stat 
 
 ./shell: No such file or directory
 
-#cisfun$ ^[[D^[[D^[[D
 
 ./shell: No such file or directory
 
-#cisfun$ ^[[C^[[C^[[C^[[C
+
 
 ./shell: No such file or directory
 
